@@ -1,0 +1,12 @@
+[submodule "sources/users"]
+	path = sources/users
+	url = git@github.com:foogon/users.git
+[submodule "sources/inventory"]
+	path = sources/inventory
+	url = git@github.com:foogon/inventory.git
+[submodule "sources/app"]
+	path = sources/app
+	url = git@github.com:foogon/app.git
+[submodule "sources/gateway"]
+	path = sources/gateway
+	url = git@github.com:foogon/gateway.git
